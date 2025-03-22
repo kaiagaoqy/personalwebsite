@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 permalink: /news/
 title: "News"
 layouts_gallery:
