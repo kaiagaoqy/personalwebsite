@@ -222,26 +222,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    
-# Galleries
-home_work_gallery:
-  - url: assets/images/illustrations/lowvision.png
-    image_path: assets/images/illustrations/lowvision.png
-    alt: "low vision research"
-    title: "Low Vision Assistive Tools"
-  - url: assets/images/illustrations/cogdev.jpg
-    image_path: assets/images/illustrations/cogdev.jpg
-    alt: "VLM Theory-of-Mind"
-    title: "VLM Theory-of-Mind"
-  - url: assets/images/illustrations/ar.png
-    image_path: assets/images/illustrations/ar.png
-    alt: "Medical AR"
-    title: "Medical AR"
-news_gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
 
 # Defaults
 defaults:
