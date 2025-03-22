@@ -226,17 +226,17 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      # comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: "_posts"
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     show_date: true
+  #     # comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: "_pages"
@@ -257,13 +257,13 @@ defaults:
   #     sidebar:
   #       nav: "docs"
   # _portfolio
-  - scope:
-      path: "_portfolio"
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: "_portfolio"
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
