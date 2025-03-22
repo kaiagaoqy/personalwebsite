@@ -161,8 +161,8 @@ include:
   - .htaccess
   - _pages
   # - /docs
-  - _posts
-  - _portfolio
+  # - _posts
+  # - _portfolio
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -246,17 +246,17 @@ news_gallery:
 # Defaults
 defaults:
   # _posts
-  # - scope:
-  #     path: "_posts"
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     show_date: true
-  #     # comments: true
-  #     share: true
-  #     related: true
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      # comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -264,26 +264,26 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _docs
-  # - scope:
-  #     path: "blog/_docs"
-  #     type: docs
-  #   values:
-  #     layout: single
-  #     read_time: false
-  #     author_profile: true
-  #     share: false
-  #     comments: false
-  #     sidebar:
-  #       nav: "docs"
+  # _docs
+  - scope:
+      path: "blog/_docs"
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
   # _portfolio
-  # - scope:
-  #     path: "_portfolio"
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
