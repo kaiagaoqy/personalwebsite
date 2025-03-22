@@ -29,13 +29,14 @@ toc: true
   <figure style="width: 100px" class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/optica2024.png" alt="">
   </figure>
+  
 - **2024.08.28.** Presented at the [Optica summer data blast](https://www.optica.org/events/webinar/2024/08_august/vision_and_color_summer_data_blast-1185bd4106fd7c9aa925d330e4a1d475/)!
+
 - **2024.08.23.** Yingzi and I presented our work on vision accessibility at the **Meta Reality lab**.
+
+
   <figure style="width: 100px" class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/joe2024.png" alt="">
   </figure>
 - **2024.07.18.** We had great time hosting our collaborator and friend Dr. Joe Nemargut! It was so much fun learning about **Orientation & Mobility training** and human guide skills!
-  <figure style="width: 100px" class="align-right">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/arvo2024.JPG" alt="">
-  </figure>
 - **2024.05.08.** XYZ lab and [Gordon Ledgge's lab](https://legge.psych.umn.edu/) at ARVO 2024.
