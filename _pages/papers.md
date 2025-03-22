@@ -16,7 +16,7 @@ layouts_gallery:
 last_modified_at: 2025-03-22T11:59:26-04:00
 toc: true
 toc_label: "Paper by Year"
-# toc_sticky: false
+toc_sticky: true
 author_profile: true 
 ---
 
