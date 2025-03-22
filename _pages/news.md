@@ -25,13 +25,11 @@ toc: true
 - **2025.03.02.** Our work 'VLMs See What You Want but not What You See' is accepted to ToM4AI workshop at AAAI 2025
 
 
-## 2024
+## 2024  
+- **2024.08.28.** Presented at the [Optica summer data blast](https://www.optica.org/events/webinar/2024/08_august/vision_and_color_summer_data_blast-1185bd4106fd7c9aa925d330e4a1d475/)!
   <figure style="width: 100px" class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/optica2024.png" alt="">
   </figure>
-  
-- **2024.08.28.** Presented at the [Optica summer data blast](https://www.optica.org/events/webinar/2024/08_august/vision_and_color_summer_data_blast-1185bd4106fd7c9aa925d330e4a1d475/)!
-
 - **2024.08.23.** Yingzi and I presented our work on vision accessibility at the **Meta Reality lab**.
 
 
