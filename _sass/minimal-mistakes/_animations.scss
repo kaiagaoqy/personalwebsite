@@ -26,3 +26,41 @@
   object-fit: cover;
 }
 
+// Variables
+$animation-duration: 10s; // Total duration of one full cycle
+$total: 10; // Maximum number of images expected (adjust as needed)
+
+figure.slideshow {
+  position: relative;
+  width: 200px;   // Adjust as needed
+  height: 200px;  // Adjust as needed
+  margin: 0 auto;
+  overflow: hidden;
+  
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    animation: fadeAnimation $animation-duration infinite;
+  }
+  
+  // Generate nth-child rules for each image up to $total
+  @for $i from 1 through $total {
+    img:nth-child(#{$i}) {
+      // Stagger delays evenly over the total duration
+      animation-delay: (($i - 1) * ($animation-duration / $total));
+    }
+  }
+}
+
+@keyframes fadeAnimation {
+  0%   { opacity: 0; }
+  10%  { opacity: 1; }
+  33%  { opacity: 1; }
+  43%  { opacity: 0; }
+  100% { opacity: 0; }
+}
