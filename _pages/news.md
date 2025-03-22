@@ -13,7 +13,7 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2025-03-22T11:59:26-04:00
-toc: true
+toc: false
 ---
 
 
@@ -30,6 +30,7 @@ toc: true
   <figure style="width: 100px" class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/optica2024.png" alt="">
   </figure>
+  
 - **2024.08.23.** Yingzi and I presented our work on vision accessibility at the **Meta Reality lab**.
 
 
