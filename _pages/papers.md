@@ -26,7 +26,7 @@ author_profile: true
 **ARVO**{: .notice--primary}
 **2024**{: .notice--warning}
 
- **Qingying Gao **| Roberto Manduchi| Pradeep Y Ramulu| Gordon E Legge| Yingzi Xiong
+ **Qingying Gao**| Roberto Manduchi| Pradeep Y Ramulu| Gordon E Legge| Yingzi Xiong
 
 > **KEYWORDS**: Low Vision, Computer Vision
 
@@ -39,7 +39,7 @@ Low vision individuals use their residual vision in their daily life to read tex
 #### Vision Language Models See What You Want but not What You See
 **2024**{: .notice--warning}
 
- **Qingying Gao **| Yijiang Li| Haiyun Lyu| Haoran Sun| Dezhi Luo| Hokin Deng
+ **Qingying Gao**| Yijiang Li| Haiyun Lyu| Haoran Sun| Dezhi Luo| Hokin Deng
 
 > **KEYWORDS**: VLM, Cognitive development
 
