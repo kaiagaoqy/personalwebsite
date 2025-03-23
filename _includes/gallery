@@ -20,10 +20,8 @@
 
 {% if gallery.size <= 3 %}
   {% assign gallery_img = 'gallery-img' %}
-  {% assign gallery_item = '' %}
 {% else %}
   {% assign gallery_img = '' %}
-{% assign gallery_item = 'gallery-item' %}
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
