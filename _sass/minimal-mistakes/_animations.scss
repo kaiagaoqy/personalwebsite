@@ -32,8 +32,8 @@ $total: 10; // Maximum number of images expected (adjust as needed)
 
 figure.slideshow {
   position: relative;
-  width: 200px;   // Adjust as needed
-  height: 200px;  // Adjust as needed
+  max-width: 500px;
+  max-height: 200px;
   margin: 0 auto;
   overflow: hidden;
   
@@ -46,6 +46,7 @@ figure.slideshow {
     object-fit: cover;
     opacity: 0;
     animation: fadeAnimation $animation-duration infinite;
+    animation-fill-mode: both;
   }
   
   // Generate nth-child rules for each image up to $total
