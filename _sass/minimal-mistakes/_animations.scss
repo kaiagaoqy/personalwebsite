@@ -51,7 +51,7 @@
 
     @for $i from 1 through 4 { // assuming max 10 images
       &:nth-child(#{$i}) {
-        animation-delay: ($i - 1) * 3s;
+        animation-delay: ($i - 1) * 2s;
       }
     }
   }
