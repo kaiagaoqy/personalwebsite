@@ -43,7 +43,7 @@
     {% endif %}
   {% endfor %}
 {% if gallery.size>3}
-  <\div>
+  </div>
 {% endif %}
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
