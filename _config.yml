@@ -117,12 +117,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "qgao14@jh.edu"
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://kaiagaoqy.github.io/personalwebsite/"
+      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=QaXCMlwAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/Kaiagaoqy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,9 +136,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=QaXCMlwAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      URL: "https://x.com/Kaiagaoqy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
