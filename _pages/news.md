@@ -3,7 +3,6 @@ layout: single
 permalink: /news/
 title: "News"
 last_modified_at: 2025-03-22T11:59:26-04:00
-toc: false
 author_profile: true 
 ---
 
