@@ -27,7 +27,6 @@
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
-  {% if gallery.size>3}
     <div class="{{gallery_item}}">
     {% for img in gallery %}
       {% if img.url %}
@@ -44,7 +43,6 @@
       {% endif %}
     {% endfor %}
     </div>
-  {% endif %}
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
