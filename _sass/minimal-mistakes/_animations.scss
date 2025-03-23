@@ -46,7 +46,6 @@ figure.slideshow {
     object-fit: cover;
     opacity: 0;
     animation: fadeAnimation $animation-duration infinite;
-    animation-fill-mode: both;
   }
   
   // Generate nth-child rules for each image up to $total
