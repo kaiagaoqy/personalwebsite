@@ -15,8 +15,8 @@ author_profile: true
  <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aaai2025.jpeg" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
  </figure>
- <div style="clear: both;"></div>
 
+<div style="clear: both;"></div>
 
 ## 2024  
 
@@ -24,6 +24,8 @@ author_profile: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/optica2024.png" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
   </figure>
 - **2024.08.28.** Presented at the [Optica summer data blast](https://www.optica.org/events/webinar/2024/08_august/vision_and_color_summer_data_blast-1185bd4106fd7c9aa925d330e4a1d475/)!
+<div style="clear: both;"></div>
+
 - **2024.08.23.** Yingzi and I presented our work on vision accessibility at the **Meta Reality lab**.
 
 
