@@ -18,7 +18,7 @@
   {% endif %}
 {% endif %}
 
-{% if gallery.size == 3 %}
+{% if gallery.size <= 3 %}
   {% assign gallery_img = 'gallery-img' %}
 {% else %}
   {% assign gallery_img = '' %}
