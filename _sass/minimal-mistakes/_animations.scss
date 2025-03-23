@@ -20,6 +20,14 @@
   }
 }
 
+// Number of images in the gallery
+$num-images: 4;
+
+// Total duration for one full cycle of the slideshow.
+$animation-duration: 8s;
+// Delay between each image's start time
+$delay: $animation-duration / $num-images;
+
 .gallery-img {
   max-width: 200px;
   max-height: 200px;
@@ -33,31 +41,25 @@
   overflow: hidden;
   margin: 0 auto; // center horizontally
 
-  .gallery-item {
+  img {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    // All images start invisible and will be animated
     opacity: 0;
-    animation: fadeInOut 9s infinite;
-    width: 100%;
-    height: 100%;
-
-    img {
-        max-width: 500px;
-        max-height: 200px;
-        object-fit: cover;
-    }
-
-    @for $i from 1 through 4 { // assuming max 10 images
-      &:nth-child(#{$i}) {
-        animation-delay: ($i - 1) * 2s;
-      }
+    animation: fadeInOut $animation-duration linear infinite;
+  }
+  
+  // Loop through each image and set a staggered animation delay.
+  @for $i from 1 through $num-images {
+    img:nth-child(#{$i}) {
+      animation-delay: (($i - 1) * $delay);
     }
   }
 }
 
-@keyframes fadeAnimation {
+@keyframes fadeInOut {
   0%   { opacity: 0; }
   10%  { opacity: 1; }
   33%  { opacity: 1; }
