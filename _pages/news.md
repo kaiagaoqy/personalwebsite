@@ -11,7 +11,11 @@ author_profile: true
 ## 2025
 
 - **2025.03.02.** Awarded the ARVO travel grant!
-- **2025.03.02.** Our work 'VLMs See What You Want but not What You See' is accepted to ToM4AI workshop at AAAI 2025 ![Alt text]({{ site.url }}{{ site.baseurl }}/assets/images/news/aaai2025.jpeg){: style="float: right; margin-left: 1em; max-width: 200px; max-height: 150px; object-fit:cover;"} <div style="clear: both;"></div>
+- **2025.03.02.** Our work 'VLMs See What You Want but not What You See' is accepted to ToM4AI workshop at AAAI 2025 
+ <figure class="align-right">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aaai2025.jpe" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
+  </figure>
+<div style="clear: both;"></div>
 
 
 ## 2024  
