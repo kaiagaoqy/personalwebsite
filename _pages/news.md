@@ -9,24 +9,20 @@ author_profile: true
 
 
 ## 2025
-
-- **2025.03.02.** Awarded the ARVO travel grant!
  <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aaai2025.jpeg" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
  </figure>
+- **2025.03.02.** Awarded the ARVO travel grant!
 - **2025.03.02.** Our work 'VLMs See What You Want but not What You See' is accepted to ToM4AI workshop at AAAI 2025 
 <div style="clear: both;"></div>
 
 ## 2024  
-- **2024.08.28.** Presented at the [Optica summer data blast](https://www.optica.org/events/webinar/2024/08_august/vision_and_color_summer_data_blast-1185bd4106fd7c9aa925d330e4a1d475/)!
-  <figure class="align-right">
+<figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/optica2024.png" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
-  </figure>
-<div style="clear: both;"></div>
-
+</figure>
+- **2024.08.28.** Presented at the [Optica summer data blast](https://www.optica.org/events/webinar/2024/08_august/vision_and_color_summer_data_blast-1185bd4106fd7c9aa925d330e4a1d475/)
 - **2024.08.23.** Yingzi and I presented our work on vision accessibility at the **Meta Reality lab**.
-
-
+<div style="clear: both;"></div>
 
   <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/joe2024.png" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
