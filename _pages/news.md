@@ -28,4 +28,4 @@ author_profile: true
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/joe2024.png" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
   </figure>
 - **2024.07.18.** We had great time hosting our collaborator and friend Dr. Joe Nemargut! It was so much fun learning about **Orientation & Mobility training** and human guide skills!
-- **2024.05.08.** XYZ lab and [Gordon Ledgge's lab](https://legge.psych.umn.edu/) at ARVO 2024.
+- **2024.05.08.** VI-OCR is accpected to ARVO 2024.
