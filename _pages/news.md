@@ -21,6 +21,7 @@ author_profile: true
 
 
 ## 2024  
+
   <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/optica2024.png" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
   </figure>
@@ -29,7 +30,7 @@ author_profile: true
 
 
 
-  <figure ] class="align-right">
+  <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/joe2024.png" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
   </figure>
 - **2024.07.18.** We had great time hosting our collaborator and friend Dr. Joe Nemargut! It was so much fun learning about **Orientation & Mobility training** and human guide skills!
