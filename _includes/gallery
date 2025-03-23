@@ -18,6 +18,12 @@
   {% endif %}
 {% endif %}
 
+{% if gallery.size == 3 %}
+  {% assign gallery_img = 'gallery-img' %}
+{% else %}
+  {% assign gallery_img = '' %}
+{% endif %}
+
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
@@ -25,12 +31,12 @@
         {% if img.title %}title="{{ img.title }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-               class="gallery-img">
+               class="{{gallery_img}}">
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-           class="gallery-img">
+           class="{{gallery_img}}">
     {% endif %}
   {% endfor %}
   {% if include.caption %}
