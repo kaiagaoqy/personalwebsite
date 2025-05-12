@@ -21,6 +21,28 @@ author_profile: true
 ---
 
 ## Low Vision Assistive Tool
+### 2025
+#### [Walk, See, and Trace: A New Method for Object Labeling in Real-Life Settings](https://iovs.arvojournals.org/article.aspx?articleid=2796994)
+**ARVO**{: .notice--primary}
+**2025**{: .notice--warning}
+
+ **Qingying Gao**| Rama Chellappa| Peng Cheng| Kristen Shifflet| Gordon E Legge| Yingzi Xiong
+
+> **KEYWORDS**: Low Vision, Computer Vision, Assistive Tool
+
+“What is in front of you?” Numerous studies attempt to understand the impact of low vision on object visibility using computer images, while real-life object visibility is underexplored despite greater ecological validity and critical perceptual factors such as binocular parallax and self-motion. We developed a “Walk, See, and Trace” task, in which observers wear light-weight glasses fitted with scene camera as they report and hand-trace the boundaries of objects in real environment. Here we report the initial evaluation in individuals with normal vision.
+
+#### [Measuring Critical Viewing Distance of Computer Vision Models in Hazard Recognition](https://iovs.arvojournals.org/article.aspx?articleid=2796994)
+**ARVO**{: .notice--primary}
+**2025**{: .notice--warning}
+
+ Seungeon Han| Clara Kim| **Qingying Gao**| Kristen Shifflet| Rama Chellappa| Peng Cheng| Gordon E Legge| Yingzi Xiong
+
+> **KEYWORDS**: Low Vision, Computer Vision, Model Assessment
+
+As computer vision (CV) applications gain popularity in assisting blind and low-vision individuals, model evaluation should be tailored to these users' practical needs. In a hazard warning context, it is critical that an assistive application can detect a hazard before the user reaches a contact range. We propose using critical viewing distance (CVD), a metric motivated by human vision evaluation, to assess CV models for hazard recognition. Here, we demonstrate how CVD changes across models, lighting conditions, and hazard types to prove the necessity of such a metric.![image](https://github.com/user-attachments/assets/19b351c0-1413-4d1f-bafa-abab88099d29)
+
+
 ### 2024
 #### [Creating A “Visually Impaired” Character Recognition Model for Text Accessibility Assessment](https://iovs.arvojournals.org/article.aspx?articleid=2796994)
 **ARVO**{: .notice--primary}
