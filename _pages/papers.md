@@ -40,7 +40,7 @@ author_profile: true
 
 > **KEYWORDS**: Low Vision, Computer Vision, Model Assessment
 
-As computer vision (CV) applications gain popularity in assisting blind and low-vision individuals, model evaluation should be tailored to these users' practical needs. In a hazard warning context, it is critical that an assistive application can detect a hazard before the user reaches a contact range. We propose using critical viewing distance (CVD), a metric motivated by human vision evaluation, to assess CV models for hazard recognition. Here, we demonstrate how CVD changes across models, lighting conditions, and hazard types to prove the necessity of such a metric.![image](https://github.com/user-attachments/assets/19b351c0-1413-4d1f-bafa-abab88099d29)
+As computer vision (CV) applications gain popularity in assisting blind and low-vision individuals, model evaluation should be tailored to these users' practical needs. In a hazard warning context, it is critical that an assistive application can detect a hazard before the user reaches a contact range. We propose using critical viewing distance (CVD), a metric motivated by human vision evaluation, to assess CV models for hazard recognition. Here, we demonstrate how CVD changes across models, lighting conditions, and hazard types to prove the necessity of such a metric.
 
 
 ### 2024
