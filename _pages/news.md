@@ -12,8 +12,10 @@ author_profile: true
  <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/arvo2025.JPG" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
  </figure>
-- **2025.05.08.** Our work 'Walk See & Trace' is accepted to ARVO 2025 as Oral talk.
+- **2025.05.08.** Our work ['Walk See & Trace'](https://kaiagaoqy.github.io/personalwebsite/papers/#walk-see-and-trace-a-new-method-for-object-labeling-in-real-life-settings) is accepted to ARVO 2025 as Oral talk.
 - **2025.05.08.** Our work 'Measuring Critical Viewing Distance of Models' is accepted to ARVO 2025 as Poster Presentation.
+<div style="clear: both;"></div>
+
  <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aaai2025.jpeg" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
  </figure>
