@@ -10,6 +10,11 @@ author_profile: true
 
 ## 2025
  <figure class="align-right">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/arvo2025.JPG" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
+ </figure>
+- **2025.05.08.** Our work 'Walk See & Trace' is accepted to ARVO 2025 as Oral talk.
+- **2025.05.08.** Our work 'Measuring Critical Viewing Distance of Models' is accepted to ARVO 2025 as Poster Presentation.
+ <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aaai2025.jpeg" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
  </figure>
 - **2025.03.02.** Awarded the ARVO travel grant!
