@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /papers/
-title: "Papers and Articles"
+title: "Publications"
 excerpt: "Published papers and articles"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
