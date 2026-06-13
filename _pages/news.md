@@ -3,12 +3,22 @@ layout: single
 classes: wide
 permalink: /news/
 title: "News"
-last_modified_at: 2025-03-22T11:59:26-04:00
+last_modified_at: 2026-06-13T00:00:00-04:00
 author_profile: true 
 ---
 
 
+## 2026
+- **2026.05.19.** Oral Presentation at **VSS** -- "Where is my cereal? Impacts of target saliency and background complexity on visual search at home"
+- **2026.05.03.** Oral Presentation at **ARVO** -- "What's in Front of Me?" Comparing Hand Gestures for Disambiguating Targets While Using Smart Glasses.
+- **2026.05.03.** Our work 'Real-world Scene Text with Low Vision' is accepted to **ARVO 2026**.
+- **2026.** Our work ['A Very Big Video Reasoning Suite'](https://arxiv.org/abs/2602.20159) is accepted to **ICML 2026**.
+- **2026.** Our work ['Assessment of Newly Designed Fonts for Visual Accessibility'](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345068) is published in **PLoS ONE**.
+
 ## 2025
+- **2025.12.** Our work ['VI-OCR: "Visually Impaired" Optical Character Recognition Pipeline'](https://www.nature.com/articles/s41598-025-30982-7) is published in **Scientific Reports**.
+- **2025.09.03.** Oral Presentation at **ISLRR** -- Seeing Hazards with Low Vision: Detection, Recognition, and Boundary Perception.
+- **2025.07.** Our work ['Core Knowledge Deficits in Multi-Modal Language Models'](https://arxiv.org/abs/2410.10855) is accepted to **ICML 2025**.
   <figure class="align-right">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/arvo2025pre.JPG" style="max-width: 200px; max-height: 150px; object-fit:cover;" alt="">
  </figure>
@@ -40,3 +50,4 @@ author_profile: true
   </figure>
 - **2024.07.18.** We had great time hosting our collaborator and friend Dr. Joe Nemargut! It was so much fun learning about **Orientation & Mobility training** and human guide skills!
 - **2024.05.08.** VI-OCR is accpected to ARVO 2024.
+- **2024.04.** Our work ['Mixed Reality Guided Root Canal Therapy'](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/htl2.12077) is published in **Healthcare Technology Letters**.
