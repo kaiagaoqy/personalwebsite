@@ -16,7 +16,7 @@ author_profile: true
 **VSS 2026**{: .notice--primary}
 **2026.05.19 · Oral Presentation**{: .notice--warning}
 
-📹 [Video](https://youtu.be/YOUR_VIDEO_LINK)
+📹 [Video](https://youtu.be/dg7IBrs9yEk)
 
 ---
 
